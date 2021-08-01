@@ -25,11 +25,11 @@ Some of the notable features of the program are:
     * Select a process using its PID and Kill it
 * Network Scanner
 	* Enter a target IP address and automatically try to ping it 
-	* ![]()
+	* ![](READMEimg/Capture7.PNG)
 	* Enter a target IP address and automatically scan which ports are open
-	* ![]()
+	* ![](READMEimg/Capture8.PNG)
     	* Enter an Network IP address (with subnet mask 255.255.255.0) and preform a subnet scan of client IP from .2 -> .255 on the network to see which are able to ping back. 
-    	* ![]()
+    	* ![](READMEimg/Capture9.PNG)
 
 #### About:
 * Author: Mateusz Peplinski
