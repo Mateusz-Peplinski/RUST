@@ -32,6 +32,7 @@ Some of the notable features of the program are:
     	* ![](READMEimg/Capture9.PNG)
 ### Building:
 Writen using visual Studio 2019 Enterprise Edition
+<br />
 Compiled with C# and .NET Framework(4.7.2) to get .exe
 #### About:
 * Author: Mateusz Peplinski
