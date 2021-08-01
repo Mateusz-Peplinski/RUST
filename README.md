@@ -13,16 +13,15 @@ Some of the notable features of the program are:
 * CPU/RAM Stats and Details
 	* Live CPU load Bars:
 	* ![CPUBars](READMEimg/Capture2.PNG)
-	<br /> 
 	* CPU Info:
 	* ![CPUInfo](READMEimg/Capture3.PNG)
-	<br /> 
 	* RAM Info:
 	* ![RAMInfo](READMEimg/Capture4.PNG)
-	<br /> 
 * Showing Running Processes
     * Be able to select a process using the PID and create a dump(.dmp) from memory automatically.
-    * ![]()
+    * ![Show Processes](READMEimg/Capture5.PNG)
+    * Dump Process:
+    * ![Show Processes](READMEimg/Capture6.PNG)
     * Select a process using its PID and Kill it
 * Network Scanner
 	* Enter a target IP address and automatically try to ping it 
