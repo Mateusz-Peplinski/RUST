@@ -2,7 +2,7 @@
 # RUST
 
 RUST is a general-purpose computer tool coded in C# with the .NET Framework.
-
+![Application.exe](READMEimg/Capture.PNG)
 ### Features:
 Some of the notable features of the program are:
 * CPU/RAM Stats and Details
