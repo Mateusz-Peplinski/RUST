@@ -10,9 +10,12 @@ RUST is a command line interface tool were the user mainly navigates using numbe
 Some of the notable features of the program are:
 (Some brief screenshots are also provided)
 * CPU/RAM Stats and Details
-* ![CPUBars](READMEimg/Capture2.PNG)
-* ![CPUInfo](READMEimg/Capture3.PNG)
-* ![RAMInfo](READMEimg/Capture4.PNG)
+Live CPU load Bars:
+![CPUBars](READMEimg/Capture2.PNG)
+CPU Info:
+![CPUInfo](READMEimg/Capture3.PNG)
+RAM Info:
+![RAMInfo](READMEimg/Capture4.PNG)
 * Showing Running Processes
     * Be able to select a process using the PID and create a dump(.dmp) from memory automatically.
     * ![]()
