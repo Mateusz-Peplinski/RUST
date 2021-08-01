@@ -33,7 +33,7 @@ Some of the notable features of the program are:
 ### Building:
 Writen using visual Studio 2019 Enterprise Edition
 <br />
-Compiled with C# and .NET Framework(4.7.2) to get .exe
+Compiled with C# compiler and .NET Framework(4.7.2) to get RUST.exe
 #### About:
 * Author: Mateusz Peplinski
 * Date v.10 Published: 01/08/2021
