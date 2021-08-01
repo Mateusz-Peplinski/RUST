@@ -1,7 +1,7 @@
 ![Logo](icon/RUST_icon.png)
 # RUST
 
-RUST is a general-purpose computer tool coded in C# with the .NET Framework.
+RUST is a general-purpose computer tool coded in C# with the .NET Framework(4.7.2) and win32 API.
 ![Application.exe](READMEimg/Capture.PNG)
 <br /> 
 RUST is a command line interface tool were the user mainly navigates using numbers and the enter key.
@@ -30,7 +30,9 @@ Some of the notable features of the program are:
 	* ![](READMEimg/Capture8.PNG)
     	* Enter an Network IP address (with subnet mask 255.255.255.0) and preform a subnet scan of client IP from .2 -> .255 on the network to see which are able to ping back. 
     	* ![](READMEimg/Capture9.PNG)
-
+### Building:
+Writen using visual Studio 2019 Enterprise Edition
+Compiled with C# and .NET Framework(4.7.2) to get .exe
 #### About:
 * Author: Mateusz Peplinski
 * Date v.10 Published: 01/08/2021
