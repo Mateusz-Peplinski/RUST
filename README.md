@@ -11,7 +11,7 @@ Some of the notable features of the program are:
 (Some brief screenshots are also provided)
 * CPU/RAM Stats and Details
 	* Live CPU load Bars:
-	* ![CPUBars](READMEimg/Capture2.PNG=250x250)
+	* ![CPUBars](READMEimg/Capture2.PNG=500x500)
 	* CPU Info:
 	* ![CPUInfo](READMEimg/Capture3.PNG=250x250)
 	* RAM Info:
