@@ -1,5 +1,6 @@
-# RUST
 ![Logo](icon/RUST_icon.png)
+# RUST
+
 RUST is a general-purpose computer tool coded in C# with the .NET Framework.
 
 ### Features:
