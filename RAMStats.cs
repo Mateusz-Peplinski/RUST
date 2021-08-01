@@ -35,8 +35,8 @@ namespace RUST
                     double dblMemory;
                     if (double.TryParse(Convert.ToString(queryObj["TotalPhysicalMemory"]), out dblMemory))
                     {
-                        Console.WriteLine("TotalPhysicalMemory is: {0} MB", Convert.ToInt32(dblMemory / (1024 * 1024)));
-                        Console.WriteLine("TotalPhysicalMemory is: {0} GB", Convert.ToInt32(dblMemory / (1024 * 1024 * 1024)));
+                        Console.WriteLine("Total Physical Memory is: {0} MB", Convert.ToInt32(dblMemory / (1024 * 1024)));
+                        Console.WriteLine("Total Physical Memory is: {0} GB", Convert.ToInt32(dblMemory / (1024 * 1024 * 1024)));
                     }
                 }
             }
