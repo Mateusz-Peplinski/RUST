@@ -11,11 +11,11 @@ Some of the notable features of the program are:
 (Some brief screenshots are also provided)
 * CPU/RAM Stats and Details
 	* Live CPU load Bars:
-	* ![CPUBars](READMEimg/Capture2.PNG =250x250)
+	* ![CPUBars](READMEimg/Capture2.PNG=250x250)
 	* CPU Info:
-	* ![CPUInfo](READMEimg/Capture3.PNG =250x250)
+	* ![CPUInfo](READMEimg/Capture3.PNG=250x250)
 	* RAM Info:
-	* ![RAMInfo](READMEimg/Capture4.PNG =250x250)
+	* ![RAMInfo](READMEimg/Capture4.PNG=250x250)
 * Showing Running Processes
     * Be able to select a process using the PID and create a dump(.dmp) from memory automatically.
     * ![]()
