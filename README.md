@@ -5,7 +5,7 @@ RUST is a general-purpose computer tool coded in C# with the .NET Framework(4.7.
 ![Application.exe](READMEimg/Capture.PNG)
 <br /> 
 RUST is a command line interface tool were the user mainly navigates using numbers and the enter key.
-<br /> The binaries (exucutables {.exe}) is found in RUST/binaries/RUST.exe
+<br /> The binaries (executable {.exe}) is found in RUST/binaries/RUST.exe
 #### Main Menu:
 ![AppMenu](READMEimg/Capture1.PNG)
 ### Features:
