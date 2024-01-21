@@ -1,42 +1,60 @@
-![Logo](icon/RUST_icon.png)
-# RUST
+<p align="center">
+  <img src="icon/RUST_icon.png" alt="Logo" width="150" height="150">
+</p>
 
-RUST is a general-purpose computer tool coded in C# with the .NET Framework(4.7.2) and win32 API.
-![Application.exe](READMEimg/Capture.PNG)
-<br /> 
-RUST is a command line interface tool were the user mainly navigates using numbers and the enter key.
-<br /> The binaries (executable {.exe}) is found in RUST/binaries/RUST.exe
-#### Main Menu:
-![AppMenu](READMEimg/Capture1.PNG)
-### Features:
-Some of the notable features of the program are:
-(Some brief screenshots are also provided)
-* CPU/RAM Stats and Details
-	* Live CPU load Bars:
-	* ![CPUBars](READMEimg/Capture2.PNG)
-	* CPU Info:
-	* ![CPUInfo](READMEimg/Capture3.PNG)
-	* RAM Info:
-	* ![RAMInfo](READMEimg/Capture4.PNG)
-* Showing Running Processes
-    * Be able to select a process using the PID and create a dump(.dmp) from memory automatically.
-    * ![Show Processes](READMEimg/Capture5.PNG)
-    * Dump Process:
-    * ![Show Processes](READMEimg/Capture6.PNG)
-    * Select a process using its PID and Kill it
-* Network Scanner
-	* Enter a target IP address and automatically try to ping it 
-	* ![](READMEimg/Capture7.PNG)
-	* Enter a target IP address and automatically scan which ports are open
-	* ![](READMEimg/Capture8.PNG)
-    	* Enter an Network IP address (with subnet mask 255.255.255.0) and preform a subnet scan of client IP from .2 -> .255 on the network to see which are able to ping back. 
-    	* ![](READMEimg/Capture9.PNG)
-### Building:
-Writen using visual Studio 2019 Enterprise Edition
-<br />
-Compiled with C# compiler and .NET Framework(4.7.2) to get RUST.exe
-#### About:
-* Author: Mateusz Peplinski
-* Date v.10 Published: 01/08/2021
-* License: MIT 
-© 2021 Mateusz Peplinski
+<h1 align="center">🔧 RUST</h1>
+
+<p align="center">
+  RUST is a general-purpose computer tool coded in C# with the .NET Framework (4.7.2) and win32 API.
+</p>
+
+<p align="center">
+  <img src="READMEimg/Capture.PNG" alt="Application.exe">
+</p>
+
+RUST is a command-line interface tool where the user mainly navigates using numbers and the ↵ Enter key.
+
+The binaries (executable `.exe`) can be found in 📁 `RUST/binaries/RUST.exe`
+
+## 📜 Main Menu:
+<p align="center">
+  <img src="READMEimg/Capture1.PNG" alt="AppMenu">
+</p>
+
+## ✨ Features:
+Below are some of the notable features of RUST, with brief screenshots provided:
+
+- **CPU/RAM Stats and Details**
+  - Live CPU load Bars:
+    - ![CPUBars](READMEimg/Capture2.PNG)
+  - CPU Info:
+    - ![CPUInfo](READMEimg/Capture3.PNG)
+  - RAM Info:
+    - ![RAMInfo](READMEimg/Capture4.PNG)
+
+- **Process Management**
+  - View and interact with running processes:
+    - 🗂️ Select a process using the PID and automatically create a dump (`.dmp`) from memory.
+      - ![Show Processes](READMEimg/Capture5.PNG)
+    - 💾 Dump Process:
+      - ![Dump Process](READMEimg/Capture6.PNG)
+    - 🔪 Select a process using its PID and kill it.
+
+- **Network Scanner**
+  - 🎯 Enter a target IP address and automatically try to ping it.
+    - ![Ping IP](READMEimg/Capture7.PNG)
+  - 🚪 Enter a target IP address and scan which ports are open.
+    - ![Scan Ports](READMEimg/Capture8.PNG)
+  - 🌐 Enter a Network IP address (with subnet mask 255.255.255.0) and perform a subnet scan of client IPs from `.2` -> `.255` to see which are responsive.
+    - ![Subnet Scan](READMEimg/Capture9.PNG)
+
+## 🛠️ Building:
+- Written using Visual Studio 2019 Enterprise Edition.
+- Compiled with the C# compiler and .NET Framework (4.7.2) to produce `RUST.exe`.
+
+## ℹ️ About:
+- **Author**: Mateusz Peplinski
+- **Version 1.0 Published**: 01/08/2021
+- **License**: MIT License
+
+© 2021 Mateusz Peplinski. All rights reserved.
